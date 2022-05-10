@@ -1,0 +1,14 @@
+{
+    "name": "corviz/csrf-token",
+    "description": "Creates/Verify CSRF tokens",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Corviz\\CsrfToken\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
